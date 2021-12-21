@@ -22,7 +22,7 @@ echo "$host" > /etc/v2ray/domain
 echo "$host" > /root/domain
 #GitUser="syapik96"
 #wget https://github.com/${GitUser}/
-GitUser="syapik96"
+GitUser="syapik969"
 #wget https://raw.githubusercontent.com/${GitUser}/aws/main/add-host.sh && chmod +x add-host.sh && screen -S add-host.sh ./add-host.sh
 #wget https://raw.githubusercontent.com/${GitUser}/aws/main/tambah/addhost.sh && chmod +x addhost.sh && screen -S addhost.sh ./addhost.sh
 wget https://raw.githubusercontent.com/${GitUser}/aws/main/install/ssh-vpn.sh && chmod +x ssh-vpn.sh && screen -S ssh-vpn ./ssh-vpn.sh
